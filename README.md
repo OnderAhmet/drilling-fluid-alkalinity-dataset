@@ -27,6 +27,4 @@ If you use this dataset, please cite the associated research article:
 Onder, A., Gul, S., & Kulga, B.  
 "Development of Data-Driven Models for Estimating Mud and Filtrate Alkalinity Using Machine Learning Applications."
 
-## License
 
-This dataset is made publicly available for research and academic use.
